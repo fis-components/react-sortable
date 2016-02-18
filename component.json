@@ -1,0 +1,10 @@
+{
+    "name": "react-sortable",
+    "description": "A sortable list component for React",
+    "repos": "https://github.com/danielstocks/react-sortable.git",
+    "main": "src/Sortable.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.0.1"
+}
